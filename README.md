@@ -17,3 +17,11 @@ Javier María Peralta Ramos,
 Tommaso Croese,
 Ido Amit,
 Michal Schwartz
+
+# Run in R
+code: code.r
+input: 20200903_exons_raw.txt
+output: 20230724_results.txt
+
+Please send questions to stefano.suzzi@weizmann.ac.il
+
